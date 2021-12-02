@@ -1,7 +1,7 @@
 # Pong
 A single player game of pong against a Computer opponent made with Unity.
 
-Run the game under PongGame/Pong.exe
+Run the game under GameRun/Pong.exe
 
 Player is the left pong paddle.
 Use W/S to move up and down.
