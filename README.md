@@ -1,5 +1,5 @@
 # Pong
-A single player game of pong against a Computer opponent made with Unity.
+A single player game of pong against a Computer opponent made with Unity, Scripts in C#.
 
 Run the game under GameRun/Pong.exe
 
